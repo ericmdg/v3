@@ -27,9 +27,12 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/admin-lte/dist/css/adminlte.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/admin-lte/dist/js/adminlte.js"
+            ]
           },
           "configurations": {
             "production": {
